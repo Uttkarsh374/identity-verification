@@ -1,0 +1,6 @@
+Flask==2.3.4
+face_recognition==1.3.0
+opencv-python==4.7.0.72
+numpy==1.25.0
+Pillow==10.0.0
+
